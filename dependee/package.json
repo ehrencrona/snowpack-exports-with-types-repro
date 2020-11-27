@@ -1,0 +1,9 @@
+{
+  "name": "dependee",
+  "version": "1.0.0",
+  "description": "",
+  "types": "index.d.ts",
+  "exports": {
+    "./foo": "./foo"
+  }
+}

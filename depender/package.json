@@ -1,0 +1,13 @@
+{
+  "name": "dependee",
+  "version": "1.0.0",
+  "dependencies": {
+    "dependee": "file:../dependee"
+  },
+  "scripts": {
+    "dev": "snowpack dev"
+  },
+  "devDependencies": {
+    "snowpack": "^2.17.1"
+  }
+}
