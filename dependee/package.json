@@ -4,6 +4,6 @@
   "description": "",
   "types": "index.d.ts",
   "exports": {
-    "./foo": "./foo"
+    "./foo/index": "./foo/index.js"
   }
 }
